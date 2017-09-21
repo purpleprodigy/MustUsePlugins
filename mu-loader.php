@@ -12,4 +12,3 @@
 namespace PurpleProdigy;
 
 include 'polestar/bootstrap.php';
-include 'asset-versioning/bootstrap.php';
